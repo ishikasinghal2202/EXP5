@@ -1,3 +1,6 @@
+#Name : Ishika Singhal
+#PRN: 24070123048
+
 # EXP5
 AIM:
 To study and implement C++ decision making statements
